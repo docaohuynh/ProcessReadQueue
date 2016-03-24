@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jdbc="http://www.springframework.org/schema/jdbc"
+	xmlns:aop="http://www.springframework.org/schema/aop" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:util="http://www.springframework.org/schema/util" xmlns:mongo="http://www.springframework.org/schema/data/mongo"
+	xmlns:task="http://www.springframework.org/schema/task" xmlns:rabbit="http://www.springframework.org/schema/rabbit"
+	xsi:schemaLocation="http://www.springframework.org/schema/jdbc http://www.springframework.org/schema/jdbc/spring-jdbc.xsd
+		http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd 
+		http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.2.xsd
+		http://www.springframework.org/schema/data/mongo http://www.springframework.org/schema/data/mongo/spring-mongo-1.0.xsd
+		http://www.springframework.org/schema/rabbit http://www.springframework.org/schema/rabbit/spring-rabbit-1.3.xsd
+		http://www.springframework.org/schema/task http://www.springframework.org/schema/task/spring-task-4.0.xsd">
+
+	<context:annotation-config />
+
+	<context:component-scan base-package="com.viettel" />
+	<bean id="placeholderProperties" class="com.viettel.reeng.backend.util.ReengPropertyHolder">
+		<property name="locations">
+			<list>
+				<value>etc/properties/rabbitmq.properties</value>
+				<!-- <value>etc/properties/rabbitmq.properties</value> -->
+			</list>
+		</property>
+	</bean>
+	<!-- cau hinh datasource -->
+
+	<bean id="connectionFactory"
+		class="org.springframework.amqp.rabbit.connection.CachingConnectionFactory">
+		<property name="host" value="104.199.140.187" />
+		<property name="port" value="5672" />
+		<property name="virtualHost" value="/" />
+		<property name="username" value="${rabbit.username}" />
+		<property name="password" value="${rabbit.password.enc}" />
+		<property name="channelCacheSize" value="10" />
+		<property name="requestedHeartBeat" value="10" />
+		<property name="publisherConfirms" value="true" />
+	</bean>
+
+	<bean id="jsonConverter"
+		class="org.springframework.amqp.support.converter.JsonMessageConverter" />
+
+
+
+	<rabbit:listener-container connection-factory="connectionFactory" acknowledge="auto" 
+		concurrency="5" max-concurrency="20" prefetch="5" transaction-size="5"> <rabbit:listener 
+		ref="receiverSample" method="onMessage" queue-names="edu_dev" /> </rabbit:listener-container>
+
+	<rabbit:template id="template" message-converter="jsonConverter"
+		connection-factory="connectionFactory" retry-template="retryTemplate" />
+
+	<bean id="retryTemplate" class="org.springframework.retry.support.RetryTemplate">
+		<property name="backOffPolicy">
+			<bean class="org.springframework.retry.backoff.ExponentialBackOffPolicy">
+				<property name="initialInterval" value="500" />
+				<property name="multiplier" value="10.0" />
+				<property name="maxInterval" value="10000" />
+			</bean>
+		</property>
+	</bean>
+
+	<bean id="receiverSample" class="com.viettel.reeng.backend.queue.ReadQueueListener" 
+		destroy-method="shutdown"> <constructor-arg name="workerSize" value="10" 
+		/> </bean>
+
+	<!-- <rabbit:listener-container
+		connection-factory="connectionFactory" acknowledge="auto" concurrency="70"
+		max-concurrency="80" prefetch="5" transaction-size="5">
+		<rabbit:listener ref="chatBot" method="onMessage"
+			queue-names="newuser" />
+	</rabbit:listener-container>
+
+	<bean id="chatBot" class="com.viettel.reeng.backend.queue.ReadQueueListener"
+		destroy-method="shutdown">
+	</bean> -->
+
+</beans>

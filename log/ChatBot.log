@@ -1,0 +1,306 @@
+2016-03-23 14:17:02,396 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-03-23 14:17:02,418 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2016-03-23 14:17:02,427 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2016-03-23 14:17:02,431 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2016-03-23 14:17:48,005 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-03-23 14:17:48,016 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2016-03-23 14:17:48,020 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2016-03-23 14:17:48,022 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2016-03-23 14:17:49,324 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-03-23 14:17:49,713 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2016-03-23 14:17:49,743 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2016-03-23 14:17:50,010 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2016-03-23 14:20:59,115 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-03-23 14:20:59,126 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2016-03-23 14:20:59,129 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2016-03-23 14:20:59,131 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2016-03-23 14:21:01,895 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-03-23 14:21:02,163 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2016-03-23 14:21:02,170 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2016-03-23 14:21:02,243 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2016-03-23 14:47:53,393 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-03-23 14:47:53,423 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2016-03-23 14:47:53,426 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2016-03-23 14:47:53,428 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2016-03-23 14:47:54,716 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-03-23 14:47:54,992 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2016-03-23 14:47:55,000 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2016-03-23 14:47:55,076 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2016-03-23 14:48:51,257 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-03-23 14:48:51,269 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2016-03-23 14:48:51,272 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2016-03-23 14:48:51,275 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2016-03-23 14:48:52,443 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-03-23 14:48:52,704 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2016-03-23 14:48:52,711 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2016-03-23 14:48:52,783 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2016-03-23 14:50:21,789 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-03-23 14:50:21,801 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2016-03-23 14:50:21,804 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2016-03-23 14:50:21,807 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2016-03-23 14:50:23,100 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-03-23 14:50:23,359 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2016-03-23 14:50:23,366 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2016-03-23 14:50:23,436 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2016-03-23 14:51:29,981 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-03-23 14:51:29,993 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2016-03-23 14:51:29,995 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2016-03-23 14:51:29,997 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2016-03-23 14:51:31,164 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-03-23 14:51:31,422 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2016-03-23 14:51:31,430 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2016-03-23 14:51:31,504 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2016-03-23 14:57:13,457 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-03-23 14:57:13,488 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2016-03-23 14:57:13,492 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2016-03-23 14:57:13,495 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2016-03-23 14:57:14,792 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-03-23 14:57:15,062 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2016-03-23 14:57:15,071 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2016-03-23 14:57:15,150 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2016-03-23 15:12:08,514 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-03-23 15:12:08,527 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2016-03-23 15:12:08,531 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2016-03-23 15:12:08,534 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2016-03-23 15:12:09,777 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-03-23 15:12:10,053 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2016-03-23 15:12:10,061 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2016-03-23 15:12:10,141 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2016-03-23 15:13:13,548 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-03-23 15:13:13,561 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2016-03-23 15:13:13,564 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2016-03-23 15:13:13,566 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2016-03-23 15:13:14,847 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-03-23 15:13:15,112 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2016-03-23 15:13:15,121 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2016-03-23 15:13:15,199 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2016-03-23 15:17:59,466 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-03-23 15:17:59,480 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2016-03-23 15:17:59,483 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2016-03-23 15:17:59,485 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2016-03-23 15:18:00,997 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-03-23 15:18:01,273 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2016-03-23 15:18:01,281 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2016-03-23 15:18:01,361 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2016-03-23 15:19:32,480 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-03-23 15:19:32,495 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2016-03-23 15:19:32,498 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2016-03-23 15:19:32,501 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2016-03-23 15:19:33,721 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-03-23 15:19:33,991 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2016-03-23 15:19:33,999 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2016-03-23 15:19:34,081 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2016-03-23 15:20:27,363 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-03-23 15:20:27,376 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2016-03-23 15:20:27,379 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2016-03-23 15:20:27,381 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2016-03-23 15:20:28,593 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-03-23 15:20:28,866 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2016-03-23 15:20:28,877 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2016-03-23 15:20:28,956 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2016-03-23 15:20:35,881 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(27)) - [MESSAGE] [1] {"userid":1,"subjectid":2, "quesitionsid":[1,2,3,4,5,6,7,8]}
+2016-03-23 16:46:47,809 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-03-23 16:46:47,820 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2016-03-23 16:46:47,823 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2016-03-23 16:46:47,825 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2016-03-23 16:46:49,095 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-03-23 16:46:49,350 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2016-03-23 16:46:49,357 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2016-03-23 16:46:49,434 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2016-03-23 16:47:07,950 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(41)) - [MESSAGE] [1] {"userid":1,"subjectid":2, "quesitionsid":[1,2,3,4,5,6,7,8]}
+2016-03-23 16:53:02,210 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-03-23 16:53:02,221 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2016-03-23 16:53:02,224 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2016-03-23 16:53:02,226 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2016-03-23 16:53:03,687 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-03-23 16:53:03,951 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2016-03-23 16:53:03,961 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2016-03-23 16:53:04,037 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2016-03-23 16:53:13,406 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(44)) - [MESSAGE] [1] {"userid":1,"subjectid":2, "quesitionsid":[1,2]}
+2016-03-23 16:53:14,786 WARN  spi.SqlExceptionHelper (SqlExceptionHelper.java:logExceptions(144)) - SQL Error: 1054, SQLState: 42S22
+2016-03-23 16:53:14,787 ERROR spi.SqlExceptionHelper (SqlExceptionHelper.java:logExceptions(146)) - Unknown column 'eduquestio0_.description' in 'field list'
+2016-03-23 16:53:14,791 INFO  internal.DefaultLoadEventListener (DefaultLoadEventListener.java:onLoad(159)) - HHH000327: Error performing load command : org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+2016-03-23 16:53:15,138 ERROR queue.ReadQueueListener (ReadQueueListener.java:onMessage(63)) - [NOTIFICATION MESSAGE] [1] has an exception.
+org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+	at org.hibernate.exception.internal.SQLExceptionTypeDelegate.convert(SQLExceptionTypeDelegate.java:80)
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:49)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:126)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:112)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:91)
+	at org.hibernate.loader.plan.exec.internal.AbstractLoadPlanBasedLoader.getResultSet(AbstractLoadPlanBasedLoader.java:449)
+	at org.hibernate.loader.plan.exec.internal.AbstractLoadPlanBasedLoader.executeQueryStatement(AbstractLoadPlanBasedLoader.java:202)
+	at org.hibernate.loader.plan.exec.internal.AbstractLoadPlanBasedLoader.executeLoad(AbstractLoadPlanBasedLoader.java:137)
+	at org.hibernate.loader.plan.exec.internal.AbstractLoadPlanBasedLoader.executeLoad(AbstractLoadPlanBasedLoader.java:102)
+	at org.hibernate.loader.entity.plan.AbstractLoadPlanBasedEntityLoader.load(AbstractLoadPlanBasedEntityLoader.java:186)
+	at org.hibernate.persister.entity.AbstractEntityPersister.load(AbstractEntityPersister.java:4126)
+	at org.hibernate.event.internal.DefaultLoadEventListener.loadFromDatasource(DefaultLoadEventListener.java:503)
+	at org.hibernate.event.internal.DefaultLoadEventListener.doLoad(DefaultLoadEventListener.java:468)
+	at org.hibernate.event.internal.DefaultLoadEventListener.load(DefaultLoadEventListener.java:213)
+	at org.hibernate.event.internal.DefaultLoadEventListener.proxyOrLoad(DefaultLoadEventListener.java:275)
+	at org.hibernate.event.internal.DefaultLoadEventListener.onLoad(DefaultLoadEventListener.java:151)
+	at org.hibernate.internal.SessionImpl.fireLoad(SessionImpl.java:1070)
+	at org.hibernate.internal.SessionImpl.access$2000(SessionImpl.java:176)
+	at org.hibernate.internal.SessionImpl$IdentifierLoadAccessImpl.load(SessionImpl.java:2551)
+	at org.hibernate.internal.SessionImpl.get(SessionImpl.java:955)
+	at com.viettel.task.dao.AbstractDao.getByKey(AbstractDao.java:30)
+	at com.viettel.task.daoImpl.EduQuestionDaoImpl.findById(EduQuestionDaoImpl.java:13)
+	at com.viettel.task.serviceImpl.EduQuestionServiceImpl.findById(EduQuestionServiceImpl.java:20)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:317)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:190)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:157)
+	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:98)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:262)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:207)
+	at com.sun.proxy.$Proxy32.findById(Unknown Source)
+	at com.viettel.reeng.backend.queue.ReadQueueListener.onMessage(ReadQueueListener.java:57)
+	at org.springframework.amqp.rabbit.listener.adapter.MessageListenerAdapter.onMessage(MessageListenerAdapter.java:349)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.doInvokeListener(AbstractMessageListenerContainer.java:650)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.invokeListener(AbstractMessageListenerContainer.java:576)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.access$001(SimpleMessageListenerContainer.java:78)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer$1.invokeListener(SimpleMessageListenerContainer.java:161)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.invokeListener(SimpleMessageListenerContainer.java:1177)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.executeListener(AbstractMessageListenerContainer.java:559)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.doReceiveAndExecute(SimpleMessageListenerContainer.java:950)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.receiveAndExecute(SimpleMessageListenerContainer.java:934)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.access$600(SimpleMessageListenerContainer.java:78)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer$AsyncMessageProcessingConsumer.run(SimpleMessageListenerContainer.java:1045)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'eduquestio0_.description' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.Util.getInstance(Util.java:383)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1062)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4226)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4158)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2615)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2776)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2840)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2082)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2212)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:82)
+	... 44 more
+2016-03-23 16:54:15,384 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-03-23 16:54:15,395 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2016-03-23 16:54:15,397 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2016-03-23 16:54:15,399 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2016-03-23 16:54:16,564 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-03-23 16:54:16,818 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2016-03-23 16:54:16,825 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2016-03-23 16:54:16,902 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2016-03-23 16:54:21,935 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(44)) - [MESSAGE] [1] {"userid":1,"subjectid":2, "quesitionsid":[1,2]}
+2016-03-23 16:54:22,895 WARN  spi.SqlExceptionHelper (SqlExceptionHelper.java:logExceptions(144)) - SQL Error: 0, SQLState: S1009
+2016-03-23 16:54:22,896 ERROR spi.SqlExceptionHelper (SqlExceptionHelper.java:logExceptions(146)) - Invalid value for getInt() - 'url'
+2016-03-23 16:54:22,973 INFO  internal.DefaultLoadEventListener (DefaultLoadEventListener.java:onLoad(159)) - HHH000327: Error performing load command : org.hibernate.exception.GenericJDBCException: Could not read entity state from ResultSet : EntityKey[com.viettel.task.model.EduQuestion#1]
+2016-03-23 16:54:23,171 ERROR queue.ReadQueueListener (ReadQueueListener.java:onMessage(63)) - [NOTIFICATION MESSAGE] [1] has an exception.
+org.hibernate.exception.GenericJDBCException: Could not read entity state from ResultSet : EntityKey[com.viettel.task.model.EduQuestion#1]
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:54)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:126)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:112)
+	at org.hibernate.loader.plan.exec.process.internal.EntityReferenceInitializerImpl.loadFromResultSet(EntityReferenceInitializerImpl.java:339)
+	at org.hibernate.loader.plan.exec.process.internal.EntityReferenceInitializerImpl.hydrateEntityState(EntityReferenceInitializerImpl.java:251)
+	at org.hibernate.loader.plan.exec.process.internal.AbstractRowReader.readRow(AbstractRowReader.java:107)
+	at org.hibernate.loader.plan.exec.internal.EntityLoadQueryDetails$EntityLoaderRowReader.readRow(EntityLoadQueryDetails.java:255)
+	at org.hibernate.loader.plan.exec.process.internal.ResultSetProcessorImpl.extractResults(ResultSetProcessorImpl.java:129)
+	at org.hibernate.loader.plan.exec.internal.AbstractLoadPlanBasedLoader.executeLoad(AbstractLoadPlanBasedLoader.java:138)
+	at org.hibernate.loader.plan.exec.internal.AbstractLoadPlanBasedLoader.executeLoad(AbstractLoadPlanBasedLoader.java:102)
+	at org.hibernate.loader.entity.plan.AbstractLoadPlanBasedEntityLoader.load(AbstractLoadPlanBasedEntityLoader.java:186)
+	at org.hibernate.persister.entity.AbstractEntityPersister.load(AbstractEntityPersister.java:4126)
+	at org.hibernate.event.internal.DefaultLoadEventListener.loadFromDatasource(DefaultLoadEventListener.java:503)
+	at org.hibernate.event.internal.DefaultLoadEventListener.doLoad(DefaultLoadEventListener.java:468)
+	at org.hibernate.event.internal.DefaultLoadEventListener.load(DefaultLoadEventListener.java:213)
+	at org.hibernate.event.internal.DefaultLoadEventListener.proxyOrLoad(DefaultLoadEventListener.java:275)
+	at org.hibernate.event.internal.DefaultLoadEventListener.onLoad(DefaultLoadEventListener.java:151)
+	at org.hibernate.internal.SessionImpl.fireLoad(SessionImpl.java:1070)
+	at org.hibernate.internal.SessionImpl.access$2000(SessionImpl.java:176)
+	at org.hibernate.internal.SessionImpl$IdentifierLoadAccessImpl.load(SessionImpl.java:2551)
+	at org.hibernate.internal.SessionImpl.get(SessionImpl.java:955)
+	at com.viettel.task.dao.AbstractDao.getByKey(AbstractDao.java:30)
+	at com.viettel.task.daoImpl.EduQuestionDaoImpl.findById(EduQuestionDaoImpl.java:13)
+	at com.viettel.task.serviceImpl.EduQuestionServiceImpl.findById(EduQuestionServiceImpl.java:20)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:317)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:190)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:157)
+	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:98)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:262)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:207)
+	at com.sun.proxy.$Proxy32.findById(Unknown Source)
+	at com.viettel.reeng.backend.queue.ReadQueueListener.onMessage(ReadQueueListener.java:57)
+	at org.springframework.amqp.rabbit.listener.adapter.MessageListenerAdapter.onMessage(MessageListenerAdapter.java:349)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.doInvokeListener(AbstractMessageListenerContainer.java:650)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.invokeListener(AbstractMessageListenerContainer.java:576)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.access$001(SimpleMessageListenerContainer.java:78)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer$1.invokeListener(SimpleMessageListenerContainer.java:161)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.invokeListener(SimpleMessageListenerContainer.java:1177)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.executeListener(AbstractMessageListenerContainer.java:559)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.doReceiveAndExecute(SimpleMessageListenerContainer.java:950)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.receiveAndExecute(SimpleMessageListenerContainer.java:934)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.access$600(SimpleMessageListenerContainer.java:78)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer$AsyncMessageProcessingConsumer.run(SimpleMessageListenerContainer.java:1045)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.sql.SQLException: Invalid value for getInt() - 'url'
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1094)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:997)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:983)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:928)
+	at com.mysql.jdbc.ResultSetImpl.getInt(ResultSetImpl.java:2758)
+	at com.mysql.jdbc.ResultSetImpl.getInt(ResultSetImpl.java:2846)
+	at org.hibernate.type.descriptor.sql.IntegerTypeDescriptor$2.doExtract(IntegerTypeDescriptor.java:74)
+	at org.hibernate.type.descriptor.sql.BasicExtractor.extract(BasicExtractor.java:64)
+	at org.hibernate.type.AbstractStandardBasicType.nullSafeGet(AbstractStandardBasicType.java:267)
+	at org.hibernate.type.AbstractStandardBasicType.nullSafeGet(AbstractStandardBasicType.java:263)
+	at org.hibernate.type.AbstractStandardBasicType.nullSafeGet(AbstractStandardBasicType.java:253)
+	at org.hibernate.type.AbstractStandardBasicType.hydrate(AbstractStandardBasicType.java:338)
+	at org.hibernate.persister.entity.AbstractEntityPersister.hydrate(AbstractEntityPersister.java:2969)
+	at org.hibernate.loader.plan.exec.process.internal.EntityReferenceInitializerImpl.loadFromResultSet(EntityReferenceInitializerImpl.java:324)
+	... 46 more
+2016-03-23 16:56:09,176 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-03-23 16:56:09,191 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2016-03-23 16:56:09,194 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2016-03-23 16:56:09,196 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2016-03-23 16:56:12,353 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-03-23 16:56:12,675 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2016-03-23 16:56:12,682 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2016-03-23 16:56:12,757 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2016-03-23 16:56:15,919 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(44)) - [MESSAGE] [1] {"userid":1,"subjectid":2, "quesitionsid":[1,2]}
+2016-03-23 16:57:25,890 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-03-23 16:57:25,903 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2016-03-23 16:57:25,948 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2016-03-23 16:57:25,951 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2016-03-23 16:57:27,064 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-03-23 16:57:27,325 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2016-03-23 16:57:27,333 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2016-03-23 16:57:27,415 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2016-03-23 16:57:31,037 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(44)) - [MESSAGE] [1] {"userid":1,"subjectid":2, "quesitionsid":[1,2]}
+2016-03-23 16:58:17,380 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-03-23 16:58:17,392 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2016-03-23 16:58:17,395 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2016-03-23 16:58:17,398 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2016-03-23 16:58:18,965 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-03-23 16:58:19,236 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2016-03-23 16:58:19,243 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2016-03-23 16:58:19,316 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2016-03-23 16:58:21,437 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(44)) - [MESSAGE] [1] {"userid":1,"subjectid":2, "quesitionsid":[1,2]}
+2016-03-23 17:06:40,570 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-03-23 17:06:40,588 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2016-03-23 17:06:40,593 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2016-03-23 17:06:40,596 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2016-03-23 17:06:42,060 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-03-23 17:06:42,351 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2016-03-23 17:06:42,362 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2016-03-23 17:06:42,458 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2016-03-23 17:06:46,128 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(53)) - [MESSAGE] [1] {"userid":1,"subjectid":2, "quesitionsid":[1,2]}

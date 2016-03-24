@@ -1,0 +1,173 @@
+2015-11-16 14:20:45,786 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2015-11-16 14:20:45,808 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2015-11-16 14:20:45,809 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2015-11-16 14:20:45,811 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2015-11-16 14:20:46,719 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-11-16 14:20:46,862 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2015-11-16 14:20:46,866 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2015-11-16 14:20:46,930 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2015-11-16 14:21:52,035 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2015-11-16 14:21:52,042 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2015-11-16 14:21:52,044 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2015-11-16 14:21:52,046 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2015-11-16 14:21:52,617 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-11-16 14:21:52,759 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2015-11-16 14:21:52,764 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2015-11-16 14:21:52,809 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2015-11-16 14:22:04,550 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(40)) - [MESSAGE] [1] {"content":"你的验证码是： 1111","to":["01696679968"],"from":"500"}
+2015-11-16 14:39:07,728 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2015-11-16 14:39:07,736 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2015-11-16 14:39:07,737 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2015-11-16 14:39:07,739 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2015-11-16 14:39:08,348 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-11-16 14:39:08,498 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2015-11-16 14:39:08,503 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2015-11-16 14:39:08,548 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2015-11-16 14:39:12,068 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(40)) - [MESSAGE] [1] {"content":"Votre code d’activation: 1111","to":["01696679968"],"from":"500"}
+2015-11-16 14:40:16,113 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2015-11-16 14:40:16,121 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2015-11-16 14:40:16,123 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2015-11-16 14:40:16,125 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2015-11-16 14:40:16,728 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-11-16 14:40:16,882 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2015-11-16 14:40:16,887 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2015-11-16 14:40:16,931 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2015-11-16 14:40:25,461 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(40)) - [MESSAGE] [1] {"content":"Votre code d’activation: 1111","to":["01696679968"],"from":"500"}
+2015-11-16 14:40:28,311 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(40)) - [MESSAGE] [2] {"content":"Your activation code is: 1111","to":["01658974561"],"from":"500"}
+2015-11-16 14:41:07,868 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(40)) - [MESSAGE] [3] {"content":"Tu código de activación es: 1111","to":["01696679968"],"from":"500"}
+2015-11-16 14:41:13,152 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(40)) - [MESSAGE] [1] {"content":"Ваш код активации: 1111","to":["01696679968"],"from":"500"}
+2015-11-16 14:41:18,915 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(40)) - [MESSAGE] [1] {"content":"你的验证码是： 1111","to":["01696679968"],"from":"500"}
+2015-11-16 14:41:22,747 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(40)) - [MESSAGE] [1] {"content":"你的验证码是： 1111","to":["01696679968"],"from":"500"}
+2015-11-16 14:41:28,258 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(40)) - [MESSAGE] [1] {"content":"你的验证码是： 1111","to":["01696679968"],"from":"500"}
+2015-11-16 15:23:01,742 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2015-11-16 15:23:01,757 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2015-11-16 15:23:01,759 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2015-11-16 15:23:01,761 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2015-11-16 15:23:02,516 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-11-16 15:23:02,728 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2015-11-16 15:23:02,733 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2015-11-16 15:23:02,820 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2015-11-16 15:23:04,305 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(40)) - [MESSAGE] [1] {"content":"Tu código de activación es: 1111","to":["01656132662"],"from":"500"}
+2015-11-16 15:23:04,306 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(40)) - [MESSAGE] [1] {"content":"Tu código de activación es: 1111","to":["0938293865"],"from":"500"}
+2015-11-16 15:23:04,393 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(87)) - [MESSAGE] [SEND TO MOBI VINA] 84938293865
+2015-11-16 15:23:06,881 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(40)) - [MESSAGE] [2] {"content":"你的验证码是： 1111","to":["01656132662"],"from":"500"}
+2015-11-16 15:23:28,120 ERROR queue.ReadQueueListener (ReadQueueListener.java:onMessage(135)) - [NOTIFICATION MESSAGE] [1] has an exception.
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:625)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:160)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:275)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:371)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:933)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1092)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:250)
+	at com.viettel.task.sms.SendSMSNexmo.sendPost(SendSMSNexmo.java:48)
+	at com.viettel.reeng.backend.queue.ReadQueueListener.onMessage(ReadQueueListener.java:91)
+	at org.springframework.amqp.rabbit.listener.adapter.MessageListenerAdapter.onMessage(MessageListenerAdapter.java:349)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.doInvokeListener(AbstractMessageListenerContainer.java:650)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.invokeListener(AbstractMessageListenerContainer.java:576)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.access$001(SimpleMessageListenerContainer.java:78)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer$1.invokeListener(SimpleMessageListenerContainer.java:161)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.invokeListener(SimpleMessageListenerContainer.java:1177)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.executeListener(AbstractMessageListenerContainer.java:559)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.doReceiveAndExecute(SimpleMessageListenerContainer.java:950)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.receiveAndExecute(SimpleMessageListenerContainer.java:934)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.access$600(SimpleMessageListenerContainer.java:78)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer$AsyncMessageProcessingConsumer.run(SimpleMessageListenerContainer.java:1045)
+	at java.lang.Thread.run(Thread.java:745)
+2015-11-16 15:23:28,124 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(40)) - [MESSAGE] [2] {"content":"Votre code d’activation: 1111","to":["0938293865"],"from":"500"}
+2015-11-16 15:23:28,124 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(87)) - [MESSAGE] [SEND TO MOBI VINA] 84938293865
+2015-11-16 15:23:30,896 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(40)) - [MESSAGE] [3] {"content":"你的验证码是： 1111","to":["01656132662"],"from":"500"}
+2015-11-16 15:23:49,142 ERROR queue.ReadQueueListener (ReadQueueListener.java:onMessage(135)) - [NOTIFICATION MESSAGE] [2] has an exception.
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:625)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:160)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:275)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:371)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:933)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1092)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:250)
+	at com.viettel.task.sms.SendSMSNexmo.sendPost(SendSMSNexmo.java:48)
+	at com.viettel.reeng.backend.queue.ReadQueueListener.onMessage(ReadQueueListener.java:91)
+	at org.springframework.amqp.rabbit.listener.adapter.MessageListenerAdapter.onMessage(MessageListenerAdapter.java:349)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.doInvokeListener(AbstractMessageListenerContainer.java:650)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.invokeListener(AbstractMessageListenerContainer.java:576)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.access$001(SimpleMessageListenerContainer.java:78)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer$1.invokeListener(SimpleMessageListenerContainer.java:161)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.invokeListener(SimpleMessageListenerContainer.java:1177)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.executeListener(AbstractMessageListenerContainer.java:559)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.doReceiveAndExecute(SimpleMessageListenerContainer.java:950)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.receiveAndExecute(SimpleMessageListenerContainer.java:934)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.access$600(SimpleMessageListenerContainer.java:78)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer$AsyncMessageProcessingConsumer.run(SimpleMessageListenerContainer.java:1045)
+	at java.lang.Thread.run(Thread.java:745)
+2015-11-16 15:23:49,143 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(40)) - [MESSAGE] [3] {"content":"Ваш код активации: 1111","to":["0938293865"],"from":"500"}
+2015-11-16 15:23:49,144 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(87)) - [MESSAGE] [SEND TO MOBI VINA] 84938293865
+2015-11-16 15:23:51,228 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(40)) - [MESSAGE] [1] {"content":"Ваш код активации: 1111","to":["01696679968"],"from":"500"}
+2015-11-16 15:23:54,758 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(40)) - [MESSAGE] [1] {"content":"Votre code d’activation: 1111","to":["01696679968"],"from":"500"}
+2015-11-16 15:24:02,104 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(40)) - [MESSAGE] [1] {"content":"Votre code d’activation: 1111","to":["01696679968"],"from":"500"}
+2015-11-16 15:24:05,248 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(40)) - [MESSAGE] [4] {"content":"Ваш код активации: 1111","to":["01696679968"],"from":"500"}
+2015-11-16 15:24:09,807 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(40)) - [MESSAGE] [2] {"content":"Tu código de activación es: 1111","to":["01696679968"],"from":"500"}
+2015-11-16 15:24:10,244 ERROR queue.ReadQueueListener (ReadQueueListener.java:onMessage(135)) - [NOTIFICATION MESSAGE] [3] has an exception.
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:625)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:160)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:275)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:371)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:933)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1092)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:250)
+	at com.viettel.task.sms.SendSMSNexmo.sendPost(SendSMSNexmo.java:48)
+	at com.viettel.reeng.backend.queue.ReadQueueListener.onMessage(ReadQueueListener.java:91)
+	at org.springframework.amqp.rabbit.listener.adapter.MessageListenerAdapter.onMessage(MessageListenerAdapter.java:349)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.doInvokeListener(AbstractMessageListenerContainer.java:650)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.invokeListener(AbstractMessageListenerContainer.java:576)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.access$001(SimpleMessageListenerContainer.java:78)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer$1.invokeListener(SimpleMessageListenerContainer.java:161)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.invokeListener(SimpleMessageListenerContainer.java:1177)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.executeListener(AbstractMessageListenerContainer.java:559)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.doReceiveAndExecute(SimpleMessageListenerContainer.java:950)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.receiveAndExecute(SimpleMessageListenerContainer.java:934)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.access$600(SimpleMessageListenerContainer.java:78)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer$AsyncMessageProcessingConsumer.run(SimpleMessageListenerContainer.java:1045)
+	at java.lang.Thread.run(Thread.java:745)
+2015-11-16 15:24:10,245 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(40)) - [MESSAGE] [4] {"content":"Ваш код активации: 1111","to":["01656132662"],"from":"500"}
+2015-11-16 15:24:10,606 INFO  queue.ReadQueueListener (ReadQueueListener.java:onMessage(40)) - [MESSAGE] [5] {"content":"Votre code d’activation: 1111","to":["01656132662"],"from":"500"}

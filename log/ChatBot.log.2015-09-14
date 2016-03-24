@@ -1,0 +1,70 @@
+2015-09-14 10:42:00,571 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2015-09-14 10:42:00,602 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2015-09-14 10:42:00,616 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2015-09-14 10:42:00,626 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2015-09-14 10:42:02,692 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-09-14 10:44:01,497 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2015-09-14 10:44:01,528 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2015-09-14 10:44:01,536 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2015-09-14 10:44:01,539 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2015-09-14 10:44:02,943 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-09-14 10:45:26,980 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2015-09-14 10:45:27,006 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2015-09-14 10:45:27,015 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2015-09-14 10:45:27,019 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2015-09-14 10:45:28,409 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-09-14 10:47:21,590 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2015-09-14 10:47:21,597 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2015-09-14 10:47:21,599 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2015-09-14 10:47:21,602 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2015-09-14 10:47:22,216 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-09-14 10:49:05,630 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2015-09-14 10:49:05,637 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2015-09-14 10:49:05,639 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2015-09-14 10:49:05,640 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2015-09-14 10:49:06,244 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-09-14 10:52:53,069 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2015-09-14 10:52:53,076 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2015-09-14 10:52:53,077 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2015-09-14 10:52:53,078 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2015-09-14 10:52:53,680 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-09-14 10:52:53,835 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2015-09-14 10:52:53,840 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2015-09-14 10:52:53,886 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2015-09-14 10:53:20,070 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2015-09-14 10:53:20,099 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2015-09-14 10:53:20,109 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2015-09-14 10:53:20,114 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2015-09-14 10:53:21,531 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-09-14 10:53:22,008 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2015-09-14 10:53:22,026 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2015-09-14 10:53:22,200 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2015-09-14 10:54:07,693 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2015-09-14 10:54:07,724 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2015-09-14 10:54:07,734 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2015-09-14 10:54:07,737 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2015-09-14 10:54:09,125 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-09-14 10:55:39,220 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2015-09-14 10:55:39,232 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2015-09-14 10:55:39,234 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2015-09-14 10:55:39,236 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2015-09-14 10:55:39,867 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-09-14 10:55:40,023 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2015-09-14 10:55:40,028 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2015-09-14 10:55:40,085 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2015-09-14 10:57:22,489 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2015-09-14 10:57:22,498 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2015-09-14 10:57:22,500 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2015-09-14 10:57:22,501 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2015-09-14 10:57:23,080 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-09-14 10:57:23,228 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2015-09-14 10:57:23,232 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2015-09-14 10:57:23,277 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final
+2015-09-14 10:58:47,896 INFO  common.Version (JavaReflectionManager.java:<clinit>(66)) - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2015-09-14 10:58:47,910 INFO  hibernate.Version (Version.java:logVersion(54)) - HHH000412: Hibernate Core {4.3.6.Final}
+2015-09-14 10:58:47,912 INFO  cfg.Environment (Environment.java:<clinit>(239)) - HHH000206: hibernate.properties not found
+2015-09-14 10:58:47,914 INFO  cfg.Environment (Environment.java:buildBytecodeProvider(346)) - HHH000021: Bytecode provider name : javassist
+2015-09-14 10:58:48,557 INFO  dialect.Dialect (Dialect.java:<init>(145)) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-09-14 10:58:48,709 INFO  internal.TransactionFactoryInitiator (TransactionFactoryInitiator.java:initiateService(62)) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2015-09-14 10:58:48,713 INFO  ast.ASTQueryTranslatorFactory (ASTQueryTranslatorFactory.java:<init>(47)) - HHH000397: Using ASTQueryTranslatorFactory
+2015-09-14 10:58:48,771 INFO  util.Version (Version.java:<clinit>(27)) - HV000001: Hibernate Validator 5.1.3.Final

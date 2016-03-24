@@ -1,0 +1,1 @@
+2015-08-20 18:11:58,256 ERROR spi.SqlExceptionHelper (SqlExceptionHelper.java:logExceptions(146)) - Unknown column 'textmt0_.id' in 'field list'
